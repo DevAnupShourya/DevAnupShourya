@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DevAnupShourya
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Data Structure And Algorithms 
-- 💞️ I’m looking to collaborate on web Development Projects
-- 📫 How to reach me mailto:contact.yourwebdev@gmail.com
+- 👋 Hi, I’m AnupShourya
+- 👀 I’m interested in Problem-Solving
+- 🌱 I’m currently learning JS & TS
+- 📫 Reach To me mailto:contact.yourwebdev@gmail.com
 
 <!---
 DevAnupShourya/DevAnupShourya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
