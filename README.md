@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AnupShourya
 - 👀 I’m interested in Problem-Solving
-- 🌱 I’m currently learning JS & TS
+- 🌱 I’m currently learning Full Stack Devlopment.
 - 📫 Reach To me mailto:contact.yourwebdev@gmail.com
 
 <!---
