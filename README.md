@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anup Shourya from India.
-- 👀 I’m good at Problem-Solving, Full-Stack Development, Javascript & Typescript.
+- 👀 I’m good at Problem-Solving, Full-Stack Development, Javascript & Typescript, MERN Stack, MongoDB, TailwindCSS, Websocket, Cypress.
 - 🌱 I’m always in learning mode.
 - 🌐 Know more about me in [Portfolio Website](https://anup-shourya.vercel.app/) .
 - ✨ Talk to me on [X](https://twitter.com/Shourya_Anup) .
